@@ -1,4 +1,4 @@
-# Simulador do Protocolo de Manchester
+# Protocolo de Manchester
 
 Este projeto é um simulador simplificado de um sistema de triagem de pacientes baseado no Protocolo de Manchester. Ele foi desenvolvido como parte da Segunda Avaliação da disciplina de Estrutura de Dados da Fatec Rio Claro.
 
